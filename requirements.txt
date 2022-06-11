@@ -1,0 +1,4 @@
+requests==2.27.1
+PyOt5==5.15.6
+sys==3.10.0
+BeautifulSoup==4.11.1
